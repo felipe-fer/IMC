@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="titulo_main">Calculadora de IMC</string>
+    <string name="label_nome">Nome:</string>
+    <string name="hint_nome">Digite seu nome</string>
+    <string name="label_peso">Peso (kg):</string>
+    <string name="hint_peso">Ex: 75.5</string>
+    <string name="label_altura">Altura (m):</string>
+    <string name="hint_altura">Ex: 1.75</string>
+    <string name="btn_calcular">CALCULAR IMC</string>
+    <string name="erro_campos_vazios">Por favor, preencha todos os campos.</string>
+    <string name="erro_valores_invalidos">Peso e altura devem ser maiores que zero.</string>
+
+    <string name="label_imc">Seu IMC é %s</string>
+    <string name="label_classificacao">Classificação: %s</string>
+    <string name="btn_voltar">VOLTAR</string>
+
+    <string name="class_abaixo_peso">Abaixo do Peso</string>
+    <string name="class_peso_normal">Peso Normal</string>
+    <string name="class_sobrepeso">Sobrepeso</string>
+    <string name="class_obesidade1">Obesidade Grau I</string>
+    <string name="class_obesidade2">Obesidade Grau II</string>
+    <string name="class_obesidade3">Obesidade Grau III</string>
+
+    <string name="msg_abaixo_peso">Seu resultado indica que você está abaixo da faixa considerada normal. Cuide da sua alimentação e, se necessário, procure orientação profissional.</string>
+    <string name="msg_peso_normal">Parabéns! Seu resultado está dentro da faixa considerada normal. Continue cuidando da sua saúde e mantendo bons hábitos!</string>
+    <string name="msg_sobrepeso">Seu resultado indica sobrepeso. Pequenas mudanças nos hábitos de alimentação e atividade física podem contribuir para uma vida mais saudável.</string>
+    <string name="msg_obesidade1">Cuide da sua saúde e procure manter hábitos cada vez mais saudáveis. Se necessário, busque orientação de um profissional de saúde.</string>
+    <string name="msg_obesidade2">Este resultado merece atenção. Procure orientação profissional e cuide da sua saúde com hábitos equilibrados.</string>
+    <string name="msg_obesidade3">Este resultado indica uma faixa que merece acompanhamento profissional. Procure orientação de um profissional de saúde para cuidar do seu bem-estar.</string>
+</resources>
